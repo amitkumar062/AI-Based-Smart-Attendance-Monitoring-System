@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Digital-Facial-Recognisation-Attendance-System
 
 <img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/e5b58429-70fa-4230-8d5c-47fc37f210e5" />
@@ -46,3 +47,6 @@ Optional: Email/SMS APIs ✉️📱
 ✅ Ensures accuracy & prevents fraudulent attendance
 ✅ Provides real-time data & analytics 📈
 ✅ Scalable for institutions of any size 🌍
+=======
+# AI-Based-Smart-Attendance-Monitoring-System
+>>>>>>> c2cd235c076289789976f44891908b71844c1aae
